@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(9, 33, 53);
+    color: white;
+    font-size: 22px;
+    font-family: 'Crete Round', serif;
+    font-weight: bold;
+}
+
+#text {
+    padding-top: 15%; 
+    display: grid;
+    justify-content: center;
+    text-justify: center;
+    text-align: center;
+}
+
+#btn {
+    font-weight: 600px;
+    font-size: 15px;
+    color: rgb(9, 33, 53);
+    margin-left: 49%;
+}

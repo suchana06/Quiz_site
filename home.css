@@ -1,0 +1,144 @@
+body{
+    background-image : url('wallp.jpg');
+    background-repeat: repeat-y;
+}
+#head{
+    background-color: black;
+    color: white;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 10px;
+    text-align: center;
+    font-family:  'Kanit', sans-serif;
+    font-style: oblique;
+}
+.bgdiv1{
+    background-color: rgba(11, 41, 97, 0.897);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+.bgdiv{
+    padding-left: 350px;
+    color: white;
+    font-weight: bold;
+    padding-right: 20px;
+}
+
+.img{
+    height: auto;
+    border-radius: 100px;
+    border: 2px solid black;
+}
+.img1{
+    height: auto;
+    border-radius: 100px;
+    border: 2px solid black;
+}
+.img:hover{
+    transform: scale(1.1);
+}
+.img1:hover{
+    transform: scale(1.1);
+}
+.btn{
+  background-color: rgb(6, 30, 83);
+  padding: 6px;
+}
+.but{
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    margin: 4px;
+}
+.but1{
+    border-radius: 12px;
+    background-color: blue;
+    color: white;
+    margin: 4px;
+}
+
+.txt{
+    padding-left: 5px;
+    cursor: pointer;
+}
+#id1{
+    background-color: rgba(6, 97, 6, 0.747);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id2{
+    background-color: rgba(136, 134, 10, 0.747);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id3{
+    background-color: rgba(153, 10, 10, 0.747);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id4{
+    background-color: rgba(73, 16, 16, 0.829);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id5{
+    background-color: rgba(0, 0, 0, 0.829);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id6{
+    background-color: rgba(54, 26, 179, 0.829);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id7{
+    background-color: rgba(97, 87, 87, 0.815);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id8{
+    background-color: rgba(11, 219, 122, 0.829);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+#id9{
+    background-color: rgba(190, 22, 22, 0.829);
+    display: flex;
+    padding: 8px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+.bgdiv2{
+    padding-left: 30px;
+    color: white;
+    font-weight: bold;
+    padding-right: 20px;
+    margin-right: 200px;
+}
+.btn{
+    padding: 10px 0px;
+    margin: 2px 6px;
+    border-radius: 30px;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
